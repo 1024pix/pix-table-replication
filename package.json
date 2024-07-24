@@ -1,0 +1,15 @@
+{
+  "name": "pix-table-replication",
+  "version": "1.0.0",
+  "description": "Ce projet a pour but d'avoir des outils pour migrer des tables entre des bases de données.",
+  "main": "dump-and-restore-schema.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "execa": "^9.3.0"
+  }
+}
